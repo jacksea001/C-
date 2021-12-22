@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\jenny_zhu\desktop\c++\多态\多态案列1-计算器类\project2\project2\源.cpp(36): warning C4715: “Calculator::GetCalculator”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\Jenny_Zhu\Desktop\c++\多态\多态案列1-计算器类\Project2\Debug\Project2.exe

@@ -1,0 +1,5 @@
+添加头文件件-   fstream
+创建文件流对象-ofstream ofs
+指定路径打开文件-ofs.open(文件写入.txt, ios::out)
+写数据 -ofs<<  
+关闭文件-ofs.close

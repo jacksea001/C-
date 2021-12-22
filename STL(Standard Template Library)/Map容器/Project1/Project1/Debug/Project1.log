@@ -1,0 +1,23 @@
+﻿  源.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\utility(172): warning C4244: “初始化”: 从“_Ty”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=double
+          ]
+  c:\users\jenny_zhu\desktop\c++\stl(standard template library)\map容器\project1\project1\源.cpp(23): note: 参见对正在编译的函数 模板 实例化“std::pair<double,std::string>::pair<__int64,const char(&)[5],0>(_Other1 &&,_Other2) noexcept(false)”的引用
+          with
+          [
+              _Other1=__int64,
+              _Other2=const char (&)[5]
+          ]
+  c:\users\jenny_zhu\desktop\c++\stl(standard template library)\map容器\project1\project1\源.cpp(23): note: 参见对正在编译的函数 模板 实例化“std::pair<double,std::string>::pair<__int64,const char(&)[5],0>(_Other1 &&,_Other2) noexcept(false)”的引用
+          with
+          [
+              _Other1=__int64,
+              _Other2=const char (&)[5]
+          ]
+  Project1.vcxproj -> C:\Users\Jenny_Zhu\Desktop\c++\STL(Standard Template Library)\Map容器\Project1\Debug\Project1.exe
